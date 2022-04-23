@@ -17,3 +17,8 @@ and everything else in-between. Download now on [CurseForge](https://www.cursefo
 
 
 **IMPORTANT NOTICE:** All mods in this modpack have been approved for use on the EarthMC Minecraft Server by staff; However, some mods may require specific setting adjustments to abide by Rule 1.1. Please check our wiki to learn more.
+
+### Installation:
+1. Download our [latest release](https://github.com/Basically-Andrew/Andrews-Earthmc-Terra-Aurora/releases).
+2. If you haven't already, download and instal the Fabric Loader. [Tutorial](https://fabricmc.net/wiki/player:tutorials:install_mcl:windows)
+3. Unzip the release inside your `%appdata%/.minecraft/mods/` folder and launch the game!
