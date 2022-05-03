@@ -2,7 +2,7 @@
 ## This Modpack is NOT official nor endorsed by EarthMC, Fix, or any other person or entity.
 
 
-Andrew's EarthMC: Terra Aurora is a **_Fabric_** modpack for the [EarthMC Minecraft Server](https://earthmc.net/). From PvP to Building, this modpack has everything you'll ever need.  Quickly jump into the EarthMC Minecraft server with this ultimate modpack. Suggestions and bug reports can be made on our Discord or [Github](https://github.com/Basically-Andrew/Andrews-Earthmc-Terra-Aurora/issues).
+Andrew's EarthMC: Terra Aurora is a **_Fabric_** modpack for the [EarthMC Minecraft Server](https://earthmc.net/). From PvP to Building, this modpack has everything you'll ever need.  Quickly jump into the EarthMC Minecraft server with this ultimate modpack. Suggestions and bug reports can be made on [Github](https://github.com/Basically-Andrew/Andrews-Earthmc-Terra-Aurora/issues).
 
 
 ### Contains:
@@ -13,10 +13,10 @@ Andrew's EarthMC: Terra Aurora is a **_Fabric_** modpack for the [EarthMC Minecr
 - [Orderly](https://www.curseforge.com/minecraft/mc-mods/orderly-fabric-2-0)
 - [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)
 - [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
-and everything else in-between. Download now on [CurseForge](https://www.curseforge.com/minecraft/modpacks/andrews-earthmc-terra-aurora/files) and [Github](https://github.com/Basically-Andrew/Andrews-Earthmc-Terra-Aurora/releases).
+and everything else in-between. Download now on [Github](https://github.com/Basically-Andrew/Andrews-Earthmc-Terra-Aurora/releases).
 
 
-**IMPORTANT NOTICE:** All mods in this modpack have been approved for use on the EarthMC Minecraft Server by staff; However, some mods may require specific setting adjustments to abide by Rule 1.1. Please check our wiki to learn more.
+**IMPORTANT NOTICE:** All mods in this modpack have been approved for use on the EarthMC Minecraft Server by staff; However, some mods may require specific setting adjustments to abide by Rule 1.1. Please check our [wiki](https://github.com/Basically-Andrew/Andrews-EarthMC-Terra-Aurora-Modpack/wiki) to learn more.
 
 ### Installation:
 1. Download our [latest release](https://github.com/Basically-Andrew/Andrews-Earthmc-Terra-Aurora/releases).
